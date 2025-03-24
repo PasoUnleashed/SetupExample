@@ -1,0 +1,6 @@
+void DoStuff(String x, int times){
+	for(int i=0;i<times;i++){
+		System.out.println(x);
+	}
+}
+ 
